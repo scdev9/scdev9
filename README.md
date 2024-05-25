@@ -14,12 +14,12 @@ Since I'm (still) a trainee Software Developer, I also like to share my code so 
 ### Top Repositories
 
 * [Inventory Management System](https://github.com/scdev9/inventory-mgt-sys)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
+* [Eduxone](https://github.com/scdev9/eduxone)
 
 ### Wanna read my articles?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
+* <img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2024/05/ja0jP7NEYgENGrPf.jpg@400w_0e.webp" height="20"/>&nbsp; [Portfolio](#)
+* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://blogscdev.wordpress.com/)
 
 ### Wanna connect with me?
 
@@ -39,4 +39,4 @@ Since I'm (still) a trainee Software Developer, I also like to share my code so 
 
 ### Wanna sponsor me?
 
-<a href="https://www.buymeacoffee.com/gnomezgrave" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
+<a href="https://www.buymeacoffee.com/scdev9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" ></a> 
