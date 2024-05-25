@@ -19,7 +19,7 @@ Since I'm (still) a trainee Software Developer, I also like to share my code so 
 ### Wanna read my articles?
 
 * <img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2024/05/ja0jP7NEYgENGrPf.jpg@400w_0e.webp" height="20"/>&nbsp; [Portfolio](#)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://blogscdev.wordpress.com/)
+* <img src="https://e7.pngegg.com/pngimages/874/869/png-clipart-wordpress-web-development-content-management-system-blog-logo-wordpress-blue-web-design.png" height="20"/>&nbsp; [Personal Blog](https://blogscdev.wordpress.com/)
 
 ### Wanna connect with me?
 
