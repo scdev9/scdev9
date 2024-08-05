@@ -11,7 +11,7 @@ Since I'm (still) a trainee Software Developer, I also like to share my code so 
 ### My stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=scdev9&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scdev9&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scdev9&&exclude_repo=scdev9&layout=compact&theme=dracula" alt="languages"/>
 
 ### Top Repositories
 
