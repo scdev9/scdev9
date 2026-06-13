@@ -4,9 +4,7 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.I'm very interested in space software engineering,Spacecraft engineering and rocket Science.
-I love to share and gather knowledge with the rest of the world.
-Since I'm (still) a trainee Software Developer, I also like to share my code so others can make use of them.
+A person Passionate about satellite communications, RF engineering, embedded systems, and low-level software development. Experienced in SDR-based signal reception, satellite ground station operations, and developing software solutions for space and communication technologies. Founder of Explority Space, focused on advancing experimental aerospace and RF research.
 
 ### My stats
 
